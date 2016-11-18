@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Github"
+title:  "How to generate ssh key?"
 date:   2016-09-22
 ---
 <h1>How to generate ssh key and adding it to ssh agent?</h1>
