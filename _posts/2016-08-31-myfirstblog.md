@@ -25,7 +25,7 @@ Step 2: Paste the text below:<br>
 
 Step 3: When you are prompt to enter the file to save the key then press enter<br>
              Enter a file in which to save the key (/Users/you/.ssh/id_rsa): [Press  enter]<br>
-             
+
 Step 4: Then , it will ask for passphrase. You can simply add password or you can just leave blank. Entering a passphrase does have its benefits: the security of a key, no matter how encrypted, still depends on the fact that it is not visible to anyone else. <br>
 Enter passphrase (empty for no passphrase): [Type a passphrase]<br>
 Enter same passphrase again: [Type passphrase again]<br>
@@ -54,14 +54,13 @@ Step 4: Click to new ssh and write title as you like and paste all that text in 
 Step 1: Open the terminal and enter:<br>
 $ ssh -T git@github.com<br>
 <p># Attempts to ssh to </p><br>
-
 Step 2: You may see the warning<br>
 The authenticity of host ' (207.97.227.239)' can't be established.<br>
-# RSA key fingerprint is 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48.<br>
-# Are you sure you want to continue connecting (yes/no)?<br>
+<p># RSA key fingerprint is 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48.</p><br>
+<p># Are you sure you want to continue connecting (yes/no)?</p><br>
 
 Step 3: Type yes and enter you will see something like this:<br>
 Hi username! You've successfully authenticated, but GitHub does not<br>
-# provide shell access.<br>
+<p># provide shell access.</p><br>
 
 <p>If the username is yours then you have successfully set up your ssh keys.:)</p><br>
