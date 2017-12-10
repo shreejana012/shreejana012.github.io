@@ -24,4 +24,4 @@ github_username:  shreejana012
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-architect
