@@ -27,3 +27,4 @@ github_username:  shreejana012
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-architect
+google_analytics: [Your Google Analytics tracking ID]
